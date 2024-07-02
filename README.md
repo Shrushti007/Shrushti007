@@ -12,7 +12,7 @@
 <a href="https://twitter.com/shrushti_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrushti_007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shrushti-malkar-8a3342251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrushti-malkar-8a3342251/" height="30" width="40" /></a>
 <a href="https://instagram.com/shrushtitech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrushtitech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@shrushti_sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shrushti_sm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shrushti_sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shrushti_sm" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shrushti6602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrushti6602" height="30" width="40" /></a>
 </p>
 
